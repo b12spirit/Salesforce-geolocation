@@ -1,3 +1,8 @@
+tRAILHEAD BADGE LEARNING HOW TO USE SALESFORCE CLI TO CREATE SCRATCH ORGS, AURA COMPONENTS AND MORE. HOW TO DEPLOY, IMPORT AND TEST.
+
+
+
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
